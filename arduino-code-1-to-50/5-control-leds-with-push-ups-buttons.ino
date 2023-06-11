@@ -1,3 +1,8 @@
+// Project #5 - Control LEDs with push-ups buttons
+// This code is part of the challenge 100 Arduino and ESP32 projects.
+// You can find more information about this initiative at https://github.com/LucasFernandoChannel/one-hundred-projects-challenge
+// Created by Lucas Fernando - check my Youtube channel at https://www.youtube.com/@lucasfernandochannel
+
 int redLed = 2;
 int blueLed = 3;
 int greenLed = 4;

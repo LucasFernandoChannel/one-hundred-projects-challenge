@@ -1,5 +1,7 @@
-# Created by Lucas Fernando - 22th April 2023
-# Feel free to modify this code the way you want and need.
+# Project #1 - RGB LED controller
+# This code is part of the challenge 100 Arduino and ESP32 projects.
+# You can find more information about this initiative at https://github.com/LucasFernandoChannel/one-hundred-projects-challenge
+# Created by Lucas Fernando - check my Youtube channel at https://www.youtube.com/@lucasfernandochannel
 
 try:
     import usocket as socket
